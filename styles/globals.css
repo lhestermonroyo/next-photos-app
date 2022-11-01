@@ -15,6 +15,16 @@ a {
   box-sizing: border-box;
 }
 
+.ant-card-meta-title {
+  text-transform: capitalize;
+}
+
+.container {
+  width: 1170px;
+  margin: auto;
+  padding: 2rem 0;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
